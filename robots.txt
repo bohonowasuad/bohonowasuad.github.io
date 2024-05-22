@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bohonowasuad.github.io/sitemap.xml
